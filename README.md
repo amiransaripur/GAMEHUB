@@ -1,9 +1,5 @@
 # 🎮 GAMEHUB
 
-**GAMEHUB** is a simple Django web application for browsing games, viewing details, reading and posting reviews, and managing content through an admin panel.
-
----
-
 ## 🛠️ Features
 
 - 🗂️ List of games with images, genres, and descriptions  
